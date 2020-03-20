@@ -1,6 +1,5 @@
 package com.nisum.springwebflux.controller.v1;
 
-import com.nisum.springwebflux.constants.ItemsConstants;
 import com.nisum.springwebflux.document.Item;
 import com.nisum.springwebflux.repository.ItemReactiveRepository;
 import org.junit.Before;
@@ -22,7 +21,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-import static com.nisum.springwebflux..constants.ItemsConstants.ITEMS_CONSTANTS_URL_V1;
+.constants.ItemsConstants.ITEMS_CONSTANTS_URL_V1;
 import static org.junit.Assert.assertTrue;
 
 @SpringBootTest
